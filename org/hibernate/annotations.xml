@@ -1,0 +1,5 @@
+<root>
+    <item name='org.hibernate.SharedSessionContract org.hibernate.Transaction getTransaction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
